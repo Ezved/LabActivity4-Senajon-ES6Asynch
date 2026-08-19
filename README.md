@@ -21,5 +21,3 @@ Fetches live post data from the [JSONPlaceholder](https://jsonplaceholder.typico
 - `Map` for O(1) user lookups and comment caching
 - Event delegation and a debounced search input (closures + `setTimeout`)
 
-## Running
-
