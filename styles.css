@@ -1,0 +1,43 @@
+body {
+  font-family: system-ui, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem;
+  line-height: 1.5;
+}
+
+header, footer {
+  text-align: center;
+}
+
+#post-list {
+  list-style: none;
+  padding: 0;
+}
+
+.post-card {
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.post-card h3 {
+  margin-top: 0;
+  text-transform: capitalize;
+}
+
+.post-meta {
+  font-size: 0.85rem;
+  color: #555;
+}
+
+.comments-list {
+  margin-top: 0.75rem;
+  padding-left: 1rem;
+  border-left: 3px solid #ddd;
+}
+
+.error {
+  color: #b00020;
+}
