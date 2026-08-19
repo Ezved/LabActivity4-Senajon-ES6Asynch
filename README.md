@@ -23,15 +23,3 @@ Fetches live post data from the [JSONPlaceholder](https://jsonplaceholder.typico
 
 ## Running
 
-Open `index.html` in a browser (or serve the folder with any static server). No build step or dependencies required.
-
-## Pushing to GitHub
-
-```bash
-git init
-git add .
-git commit -m "Lab Activity 4: Advanced ES6+ and fetching asynchronous data"
-git branch -M main
-git remote add origin https://github.com/<your-username>/LabActivity4-Senajon-ES6Asynch.git
-git push -u origin main
-```
